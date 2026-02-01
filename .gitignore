@@ -1,0 +1,4 @@
+node_modules/
+.env
+client/productfrontend/node_modules/
+server/productbackend/node_modules/
