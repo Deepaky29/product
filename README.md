@@ -72,7 +72,7 @@ Install dependencies:
 npm install
 Update API base URL in your frontend to point to the deployed backend (Render):
 
-const API_BASE_URL = "https://your-backend-url.onrender.com";
+const API_BASE_URL = "https://product-2iie.onrender.com";
 Start frontend locally:
 
 npm run dev
@@ -88,9 +88,9 @@ Frontend: Deployed on Vercel
 
 Live URLs:
 
-Backend: https://your-backend-url.onrender.com
+Backend: https://product-2iie.onrender.com
 
-Frontend: https://your-frontend-url.vercel.app
+Frontend: https://product-ofu5.vercel.app/
 
 🔹 Notes
 Make sure to check the console after login to verify the authentication status.
