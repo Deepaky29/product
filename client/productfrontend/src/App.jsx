@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Login from './pages/Login'
 import Otp from './pages/Otp'
 import './App.css'
-import ProductHome from "./pages/Producthome";
+import ProductHome from "./pages/ProductHome";
 import ProductList from "./pages/ProductList";
 import ProductHome1 from "./pages/ProductHome1";
 
